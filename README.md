@@ -1,4 +1,4 @@
-# Networked-FPS
+# 1-HP
 
 This is a networked first-person shooter based around physics.
 The objective is to push enermy players off of the central stage with an array of weapons and items acquired from the map.
